@@ -8,7 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+//Author : Amit
 @Entity
 @Table(name = "customer")
 public class Customer implements Serializable {
