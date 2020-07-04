@@ -1,9 +1,0 @@
-net/mytutorial/springmvc/dao/CustomerDAOImpl.class
-net/mytutorial/springmvc/config/WebMvcConfig.class
-net/mytutorial/springmvc/config/AppInitializer.class
-net/mytutorial/springmvc/dao/CustomerDAO.class
-net/mytutorial/springmvc/config/AppContext.class
-net/mytutorial/springmvc/entity/Customer.class
-net/mytutorial/springmvc/controller/CustomerController.class
-net/mytutorial/springmvc/service/CustomerServiceImpl.class
-net/mytutorial/springmvc/service/CustomerService.class
